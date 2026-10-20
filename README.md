@@ -4,9 +4,9 @@ This repository contains my laboratory outputs and documentation for **CC 101 In
 
 ## About Me
 
-- **Name:** [Angel Lyra A. Escandor]
-- **Program and Section:** BSCS 1-[1]
-- **Interests:** [Dance and Online Games]
+- **Name:** Angel Lyra A. Escandor
+- **Program and Section:** BSCS 1-1
+- **Interests:** Dance and Online Games
 - **Goal:** I want to improve my programming and problem-solving skills as a computer science student.
 
 ## Course Information
